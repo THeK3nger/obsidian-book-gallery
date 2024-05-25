@@ -2,8 +2,8 @@
 	"id": "book-gallery",
 	"name": "Book Gallery",
 	"version": "1.0.0",
-	"minAppVersion": "0.15.0",
-	"description": "Renders a list of cover images as a book gallery",
+	"minAppVersion": "1.0.0",
+	"description": "Render a list of cover images as a book gallery",
 	"author": "Davide Aversa",
 	"authorUrl": "https://www.davideaversa.it/",
 	"isDesktopOnly": false
