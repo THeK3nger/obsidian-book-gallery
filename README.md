@@ -23,6 +23,9 @@ how-to-be-a-leader.png
 
 Result:
 
+![gallery](https://github.com/THeK3nger/obsidian-book-gallery/assets/133159/04ebe2fc-5a09-4641-91a3-e97dbb288fcc)
+
+
 ## Installation
 
 ### From within Obsidian
